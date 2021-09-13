@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="@string/app_welcome"
         android:textColor="#000000"
         android:textSize="96sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -23,7 +23,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="@string/app_button"
         android:textColor="#FFFFFF"
         android:textSize="48sp"
         app:backgroundTint="#00000000"
